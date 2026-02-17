@@ -6,6 +6,8 @@ To understand messy datasets in practice, it is useful to examine real-world exa
 
 ## Examples from *Data Organization in Spreadsheets*
 
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/15.png)
+
 Several examples presented in the paper *Data Organization in Spreadsheets* demonstrate violations of tidy data principles.
 
 Common problems observed in these datasets include:
@@ -28,6 +30,8 @@ Datasets formatted in these messy ways create significant obstacles during analy
 ---
 
 ## Case Study 1: Miles McBain — Australian Marriage Survey Data
+
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/16.png)
 
 Miles McBain, a data scientist from Brisbane, Australia, attempted to analyze Australian postal survey data on marriage.
 
@@ -56,6 +60,8 @@ He documented the entire cleaning process in a Medium article, explaining:
 ---
 
 ## Case Study 2: Sharla Gelfand — Toronto Open Data
+
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/17.png)
 
 Inspired by Miles McBain’s work, Sharla Gelfand undertook a similar effort to clean a messy dataset from Toronto’s open data portal.
 
