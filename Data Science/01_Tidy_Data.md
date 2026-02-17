@@ -24,6 +24,8 @@ Every value in a dataset must belong to:
 
 ## 2. Variables
 
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/1.png)
+
 **Variables** represent the different attributes or features collected in a dataset.
 
 They define **what kind of information is recorded**.
