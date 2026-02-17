@@ -27,9 +27,9 @@ Datasets formatted in these messy ways create significant obstacles during analy
 
 ---
 
-## Case Study 1: Miles McBain — Australian Same-Sex Marriage Survey Data
+## Case Study 1: Miles McBain — Australian Marriage Survey Data
 
-Miles McBain, a data scientist from Brisbane, Australia, attempted to analyze Australian postal survey data on same-sex marriage.
+Miles McBain, a data scientist from Brisbane, Australia, attempted to analyze Australian postal survey data on marriage.
 
 Before analysis could begin, extensive data tidying was required.
 
