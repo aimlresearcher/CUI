@@ -117,9 +117,6 @@ Formatting is not machine-readable and may be lost during data import or export.
 
 ### 7. Save Data as Plain Text Files
 
-![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/15.png)
-
-
 Prefer open, non-proprietary formats such as `.csv` and `.txt`.
 
 Advantages:
