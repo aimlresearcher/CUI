@@ -37,6 +37,8 @@ Every measured attribute must have its own dedicated column.
 
 ## Principle 2: Each Observation → One Row
 
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/5.png)
+
 Each row represents a single observational unit instance.
 
 - Each observation contains one value per variable.
@@ -57,6 +59,8 @@ Each row represents a single observational unit instance.
 
 ## Principle 3: One Table per Type of Observational Unit
 
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/6.png)
+
 Different types of entities should be stored in separate tables.
 
 - Each table represents one kind of observational unit.
@@ -76,6 +80,8 @@ Different types of entities should be stored in separate tables.
 ---
 
 ## Principle 4: Tables Must Be Joinable
+
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/7.png)
 
 If multiple tables exist:
 
