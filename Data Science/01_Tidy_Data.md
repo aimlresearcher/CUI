@@ -54,6 +54,8 @@ Variable names are typically placed in:
 
 An **observation** represents a single recorded instance of data.
 
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/2.png)
+
 It contains:
 
 - **One value for each variable**
@@ -85,6 +87,8 @@ These represent:
 
 - Different **measurement contexts**
 - Potentially different **data structures**
+
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/2.png)
 
 According to tidy data principles:
 
