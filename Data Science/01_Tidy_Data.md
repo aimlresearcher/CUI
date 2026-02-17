@@ -88,7 +88,7 @@ These represent:
 - Different **measurement contexts**
 - Potentially different **data structures**
 
-![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/2.png)
+![Variables](https://github.com/aimlresearcher/CUI/blob/main/Data%20Science/images/3.png)
 
 According to tidy data principles:
 
